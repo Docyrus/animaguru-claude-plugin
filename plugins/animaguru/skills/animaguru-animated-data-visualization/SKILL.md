@@ -33,7 +33,7 @@ Read [the data contract](references/data-contract.md) when ingesting data and be
 
 ## Review and completion
 
-Verify every final plotted value and claim against the transformed data programmatically, then manually check representative extremes, missing values and at least five values when available. Inspect chart transitions, label collisions and small-screen legibility. Deliver the source and transformation record, chart-ready data, validation notes and working HTML5 film. Follow `animaguru-video` for requested MP4 delivery.
+Verify every final plotted value and claim against the transformed data programmatically, then manually check representative extremes, missing values and at least five values when available. Inspect chart transitions, label collisions and small-screen legibility. Deliver the source and transformation record, chart-ready data, validation notes and the finished film as an MP4. Follow `animaguru-video` for MP4 delivery.
 
 ## Additional visual treatments
 

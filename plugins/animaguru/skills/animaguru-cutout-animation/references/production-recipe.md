@@ -30,8 +30,8 @@ Exact-frame capture must pause video, seek to the required clip time, await deco
 
 ## Integrate and verify
 
-Keep assets local in `public/assets/` and resolve them with `publicAsset()` so HTML5 embeds work in nested hosting folders. Register each resource and its real cue times in `src/film-resources.ts`.
+Keep assets local in `public/assets/` and resolve them with `publicAsset()` so the film also plays when AnimaGuru hosts or embeds it. Register each resource and its real cue times in `src/film-resources.ts`.
 
 Follow the shared video skill for narration, music, factual claims and export delivery when those are part of the brief. Cutout Animation does not prescribe a voice, soundtrack, message, story structure or ending.
 
-Replace the starter's demo scenes, update film timing, preserve the asynchronous capture API, and inspect representative full-resolution frames at transitions and movement extremes. Review the final film in the intended format and produce the requested HTML5 or MP4 deliverable through the supplied export pipeline.
+Replace the starter's demo scenes, update film timing, preserve the asynchronous capture API, and inspect representative full-resolution frames at transitions and movement extremes. Review the final film and produce the MP4 through the supplied export pipeline, or submit it with `animaguru submit` when the user asks for hosting.

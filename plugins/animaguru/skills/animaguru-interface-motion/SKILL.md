@@ -25,12 +25,12 @@ Follow the sibling `animaguru-video` category → style → quick interview flow
 - Place callouts beside the relevant control, keeping the control, pointer and important UI copy unobstructed. Recalculate placement for aspect-ratio or language changes.
 - Use focus masks, cropped detail views, restrained pans and state-to-state matches. Device frames and cursor effects are optional treatments selected through the brief.
 - Recreate simple conceptual components in PixiJS for editable labels and state transitions. AnimaGuru can provide supporting assets or narration; do not generate fake screenshots of a real product and present them as actual UI.
-- Ensure screenshots and recordings are approved for inclusion. Redact private information before placing media in `public/assets/`, which is included in HTML5 exports.
+- Ensure screenshots and recordings are approved for inclusion. Redact private information before placing media in `public/assets/`, which `animaguru submit` uploads with the film.
 - Register real screens, cursor intervals and callouts in the resource timeline. Keep interactions deterministic; playback demonstrates the recorded sequence rather than calling a live application.
 
 ## Review and completion
 
-Follow `animaguru-video` for audio and export. Inspect the frame immediately before and after every click; verify the target, focus mask and resulting state. Check callouts at mobile size and replay/backward seeking. Deliver the source-to-canvas coordinate map, readable screen assets and working HTML5 film; export MP4 when requested.
+Follow `animaguru-video` for audio and export. Inspect the frame immediately before and after every click; verify the target, focus mask and resulting state. Check callouts at mobile size and replay/backward seeking. Deliver the source-to-canvas coordinate map, readable screen assets and the finished film as an MP4.
 
 ## Additional visual treatments
 

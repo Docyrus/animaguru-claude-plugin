@@ -8,4 +8,4 @@ Fold this missing information into the shared quick interview: **What is newly a
 - Find the product-specific visual action that carries the message, then build a sequence around that action. Do not default to a fixed problem/solution scene count.
 - Use brand assets and actual interface states. A feature label alone is weaker than an interaction or output that explains its value; let the brief determine narration and CTA.
 
-Completion: Release status, names and features match sources; the final message has a readable hold. Use `animaguru-video` for the common production, budget, review and HTML5/MP4 contract.
+Completion: Release status, names and features match sources; the final message has a readable hold. Use `animaguru-video` for the common production, budget, review and MP4 delivery contract.

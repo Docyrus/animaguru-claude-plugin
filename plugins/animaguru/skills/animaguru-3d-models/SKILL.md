@@ -7,7 +7,7 @@ description: Generate 3D model assets with AnimaGuru (GLB meshes, optionally aut
 
 The 3D styles (`product-turntable-3d`, `character-stage-3d`, `toy-diorama-3d`, `exploded-teardown-3d`) build on this skill; each has a runnable study (`npm run example -- product-turntable-3d`).
 
-A 3D shot is ordinary film code: `ThreeStage` (in the kit) renders a three.js scene into its own canvas, shown in the Pixi film as one Sprite. 2D art can sit behind it, because the canvas is transparent where nothing is drawn, and titles, captions and leader lines go on top as normal Pixi Text, so `npm run review`, the frame checker, HTML5 export and MP4 export all work unchanged. Read sibling `animaguru-video` for the setup, interview and review workflow, and `animaguru` for credits and jobs; this skill adds what changes.
+A 3D shot is ordinary film code: `ThreeStage` (in the kit) renders a three.js scene into its own canvas, shown in the Pixi film as one Sprite. 2D art can sit behind it, because the canvas is transparent where nothing is drawn, and titles, captions and leader lines go on top as normal Pixi Text, so `npm run review`, the frame checker, MP4 export and `animaguru submit` all work unchanged. Read sibling `animaguru-video` for the setup, interview and review workflow, and `animaguru` for credits and jobs; this skill adds what changes.
 
 ## Make the models
 
@@ -78,7 +78,7 @@ await stage.warm(scene, camera);
 - **Return `stage.draw()`.** Spark sorts splats for the camera in a worker, so with splats in the scene `draw()` returns a promise, and the film waits for it before the frame. An update that drops it renders splats in the order of an earlier camera. Every frame is still a pure function of `t`: cold seeks and sequential playback give identical frames.
 - **Colour.** The first splat switches the stage from AgX to Neutral tone mapping, which keeps the photo's colours through `stage.post()`; meshes in the scene look a little crisper than with AgX. Set `stage.renderer.toneMapping` after loading to choose otherwise.
 - **Placing.** `normalize()`, `bounds()`, `project()` and holders work as for meshes. Use `softShadow(width, depth, opacity)` under each splat, on a plinth or floor. Splats mix with meshes in one scene and respect their depth. `photoView()` needs the splat placed first.
-- **Size.** Each splat file loads whole: keep a film to a few splats at the default count (a 1080p frame with two takes about 50 ms to render on a Mac), and count their megabytes in HTML5 exports.
+- **Size.** Each splat file loads whole: keep a film to a few splats at the default count (a 1080p frame with two takes about 50 ms to render on a Mac), and count their megabytes in what `animaguru submit` uploads.
 
 ## Build the shot
 
@@ -122,4 +122,4 @@ await stage.warm(scene, camera);                 // compile shaders before the f
 
 ## Check it
 
-Run `npm run review` and look at the frames: scale against the set, feet on the ground (no floating, no sinking), the shadow under the character, labels on their parts, no clipping through props, and textures sharp at the closest framing. At 1080p with 1.5× supersampling, a headless MP4 export of a 3D film runs at about real time on a Mac with a GPU; machines without a GPU render post effects several times slower. Keep the total model size in an HTML5 export to a few MB.
+Run `npm run review` and look at the frames: scale against the set, feet on the ground (no floating, no sinking), the shadow under the character, labels on their parts, no clipping through props, and textures sharp at the closest framing. At 1080p with 1.5× supersampling, a headless MP4 export of a 3D film runs at about real time on a Mac with a GPU; machines without a GPU render post effects several times slower. Keep the total model size in a film to a few MB; `animaguru submit` uploads every model with it.

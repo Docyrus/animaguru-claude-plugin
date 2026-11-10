@@ -2,7 +2,7 @@
 
 The workspace includes an executable original study in `src/studies/three/toy-diorama-3d.ts`, selected with `toy-diorama-3d`. It renders with three.js through the kit's `ThreeStage` and draws its type with Pixi on top; `src/studies/three-film.ts` runs it as an 8-second film. All copy lives in `shared/locales/en/style-studies.json` under `threeStyles`.
 
-In an untouched starter, run `npm run example -- toy-diorama-3d`, then `npm run dev`. The command refuses to replace an authored film, retains starter backups in `production/example-backup/`, and writes an 8-second study with its own resource tracks. `npm run export:html` and `npm run export:mp4` use this installed film normally. To use the recipe inside an existing film, copy the study's helpers (the extruded land, the road ribbon, the tilt-shift pass) into a scene module and call them from `build()`.
+In an untouched starter, run `npm run example -- toy-diorama-3d`, then `npm run dev`. The command refuses to replace an authored film, retains starter backups in `production/example-backup/`, and writes an 8-second study with its own resource tracks. `npm run export:mp4` uses this installed film normally. To use the recipe inside an existing film, copy the study's helpers (the extruded land, the road ribbon, the tilt-shift pass) into a scene module and call them from `build()`.
 
 ## Sources
 

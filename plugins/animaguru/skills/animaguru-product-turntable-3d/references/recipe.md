@@ -2,7 +2,7 @@
 
 The workspace includes an executable original 3D study in `src/studies/three/product-turntable-3d.ts`, selected with `product-turntable-3d`. It renders through `src/studies/three-film.ts` and the kit's `ThreeStage` (three.js drawn as one Pixi Sprite, with Pixi text and leaders on top). Its copy lives in `shared/locales/en/style-studies.json` under `threeStyles`.
 
-In an untouched starter, run `npm run example -- product-turntable-3d`, then `npm run dev`. The command refuses to replace an authored film, retains starter backups in `production/example-backup/`, and writes an 8-second study. `npm run export:html` and `npm run export:mp4` use this installed film normally. To use the recipe inside an existing film, copy the study's stage, set and camera code into a scene module and draw it from the film's own update.
+In an untouched starter, run `npm run example -- product-turntable-3d`, then `npm run dev`. The command refuses to replace an authored film, retains starter backups in `production/example-backup/`, and writes an 8-second study. `npm run export:mp4` uses this installed film normally. To use the recipe inside an existing film, copy the study's stage, set and camera code into a scene module and draw it from the film's own update.
 
 ## Sources
 

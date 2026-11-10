@@ -2,7 +2,7 @@
 
 The workspace includes an executable original study in `src/studies/three/character-stage-3d.ts`, selected with `character-stage-3d`. It is a 3D study: `src/studies/three-film.ts` runs it through the kit's `ThreeStage`, at 1920×1080 scaled to the film. Its copy lives in `shared/locales/en/style-studies.json` under `threeStyles`.
 
-In an untouched starter, run `npm run example -- character-stage-3d`, then `npm run dev`. The command refuses to replace an authored film, retains starter backups in `production/example-backup/`, and writes an 8-second study. `npm run export:html` and `npm run export:mp4` use this installed film normally. To use the recipe inside an existing film, copy the study's camera matching, light and posing into your own scene module and compose it into the project's timeline.
+In an untouched starter, run `npm run example -- character-stage-3d`, then `npm run dev`. The command refuses to replace an authored film, retains starter backups in `production/example-backup/`, and writes an 8-second study. `npm run export:mp4` uses this installed film normally. To use the recipe inside an existing film, copy the study's camera matching, light and posing into your own scene module and compose it into the project's timeline.
 
 ## Sources
 

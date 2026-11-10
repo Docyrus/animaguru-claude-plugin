@@ -8,4 +8,4 @@ Fold this missing information into the shared quick interview: **Which source te
 - Keep graphics inside coherent source-audio stretches. Preserve factual meaning and quotation accuracy; PiP is optional and follows the requested speaker visibility.
 - Use a shared style bible and component kit for repeated inserts. Avoid importing a fixed animation count, compulsory camera zooms or a blanket multi-agent judging process.
 
-Completion: Faithful source meaning, cue synchronization, consistent insert design and clear chapter flow. Use `animaguru-video` for the common production, budget, review and HTML5/MP4 contract.
+Completion: Faithful source meaning, cue synchronization, consistent insert design and clear chapter flow. Use `animaguru-video` for the common production, budget, review and MP4 delivery contract.

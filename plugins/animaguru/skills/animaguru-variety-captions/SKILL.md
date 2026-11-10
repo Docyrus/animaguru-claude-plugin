@@ -33,4 +33,4 @@ Use the [production recipe](references/recipe.md) for the bundled original study
 
 ## Review and delivery
 
-Inspect each caption's landing against its beat (two to three frames late, never early), reading time on every caption, overlap with faces and the show bug, outline order between neighbouring letters, fallback fonts and phone-size legibility. Check representative full-resolution frames, moving playback, desktop/mobile fit and cold seeks. Follow `animaguru-video` for production records, audio mixing and HTML5 delivery; export MP4 when requested. Describe the actual 2D/2.5D rendering method accurately. Physically rendered 3D remains deferred.
+Inspect each caption's landing against its beat (two to three frames late, never early), reading time on every caption, overlap with faces and the show bug, outline order between neighbouring letters, fallback fonts and phone-size legibility. Check representative full-resolution frames, moving playback, desktop/mobile fit and cold seeks. Follow `animaguru-video` for production records, audio mixing and MP4 delivery. Describe the actual 2D/2.5D rendering method accurately. Physically rendered 3D remains deferred.

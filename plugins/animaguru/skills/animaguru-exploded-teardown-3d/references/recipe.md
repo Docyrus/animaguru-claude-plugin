@@ -2,7 +2,7 @@
 
 The workspace includes an executable original study in `src/studies/three/exploded-teardown-3d.ts`, rendered by `src/studies/three-film.ts` through the kit's `ThreeStage`. Its on-screen copy lives in `shared/locales/en/style-studies.json` (`threeStyles`).
 
-In an untouched starter, run `npm run example -- exploded-teardown-3d`, then `npm run dev`. The command refuses to replace an authored film, retains starter backups in `production/example-backup/`, and writes an 8-second study. `npm run export:html` and `npm run export:mp4` use the installed film normally. To use the technique inside an existing film, copy the study's part, lift and callout functions into a scene and register its update with `film.on()`.
+In an untouched starter, run `npm run example -- exploded-teardown-3d`, then `npm run dev`. The command refuses to replace an authored film, retains starter backups in `production/example-backup/`, and writes an 8-second study. `npm run export:mp4` uses the installed film normally. To use the technique inside an existing film, copy the study's part, lift and callout functions into a scene and register its update with `film.on()`.
 
 ## Sources
 

@@ -31,4 +31,4 @@ Use the [production recipe](references/recipe.md) for sources, the bundled origi
 
 ## Review and delivery
 
-Inspect the lens interior (under about 1.5 screen pixels per scan pixel), reading holds for labels on a moving table, shear in the photograph space and every identifier against its record. Check representative full-resolution frames, moving playback, desktop/mobile fit and cold seeks. Follow `animaguru-video` for production records, audio mixing and HTML5 delivery; export MP4 when requested. Describe the actual 2D/2.5D rendering method accurately. Physically rendered 3D remains deferred.
+Inspect the lens interior (under about 1.5 screen pixels per scan pixel), reading holds for labels on a moving table, shear in the photograph space and every identifier against its record. Check representative full-resolution frames, moving playback, desktop/mobile fit and cold seeks. Follow `animaguru-video` for production records, audio mixing and MP4 delivery. Describe the actual 2D/2.5D rendering method accurately. Physically rendered 3D remains deferred.

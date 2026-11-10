@@ -27,4 +27,4 @@ Use the [production recipe](references/recipe.md) for the kit pieces that build 
 
 ## Review and delivery
 
-Inspect low-contrast panels, uncontrolled glow and text masked by foreground cards; random-order seeks before and after grid assembly. Check representative full-resolution frames, moving playback, desktop/mobile fit and cold seeks. Follow `animaguru-video` for production records, audio mixing and HTML5 delivery; export MP4 when requested. Describe the actual 2D/2.5D rendering method accurately. Physically rendered 3D remains deferred.
+Inspect low-contrast panels, uncontrolled glow and text masked by foreground cards; random-order seeks before and after grid assembly. Check representative full-resolution frames, moving playback, desktop/mobile fit and cold seeks. Follow `animaguru-video` for production records, audio mixing and MP4 delivery. Describe the actual 2D/2.5D rendering method accurately. Physically rendered 3D remains deferred.

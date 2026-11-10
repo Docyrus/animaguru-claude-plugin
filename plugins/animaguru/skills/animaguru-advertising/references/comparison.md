@@ -8,4 +8,4 @@ Fold this missing information into the shared quick interview: **What is the com
 - Separate measured facts from illustrative scenarios. Keep units, baselines, sample scope and relevant limitations attached to the evidence.
 - Preserve semantic identities during comparison: the same object or metric follows one transform/camera model. Show the actual difference rather than magnifying it through arbitrary animation.
 
-Completion: Matched conditions and units; no fabricated metrics or misleading crop/scale changes. Use `animaguru-video` for the common production, budget, review and HTML5/MP4 contract.
+Completion: Matched conditions and units; no fabricated metrics or misleading crop/scale changes. Use `animaguru-video` for the common production, budget, review and MP4 delivery contract.

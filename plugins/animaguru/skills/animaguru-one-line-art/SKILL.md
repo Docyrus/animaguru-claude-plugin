@@ -31,4 +31,4 @@ Use the [production recipe](references/recipe.md) for the bundled original study
 
 ## Review and delivery
 
-Scrub every join: no gaps, no doubled caps, no figure that needs a lift. Check that the line keeps one width through zooms, that the nib visibly slows at corners, that each figure reads at the moment it completes and again in the final pull-back, and that the fill stays inside its figure. Check representative full-resolution frames, moving playback, desktop/mobile fit and cold seeks. Follow `animaguru-video` for production records, audio mixing and HTML5 delivery; export MP4 when requested. Describe the actual 2D rendering method accurately.
+Scrub every join: no gaps, no doubled caps, no figure that needs a lift. Check that the line keeps one width through zooms, that the nib visibly slows at corners, that each figure reads at the moment it completes and again in the final pull-back, and that the fill stays inside its figure. Check representative full-resolution frames, moving playback, desktop/mobile fit and cold seeks. Follow `animaguru-video` for production records, audio mixing and MP4 delivery. Describe the actual 2D rendering method accurately.

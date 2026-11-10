@@ -13,4 +13,4 @@ Account for letterboxing when fitting an image into a frame. CSS dimensions and 
 
 Inspect the target over the screenshot at output resolution. Save its control bounds as well as the click point to make the target easy to audit. When cropping or panning changes, verify the target remains visible and inside its control. Derive click ripples and focus masks from the same target data.
 
-For recordings, await decoded frames on seek as required by the shared capture API. Use the recording's actual cursor or an authored replacement consistently. Hide duplicate cursors. Keep every screen and annotation inside the Pixi canvas so both HTML5 and MP4 show the same sequence.
+For recordings, await decoded frames on seek as required by the shared capture API. Use the recording's actual cursor or an authored replacement consistently. Hide duplicate cursors. Keep every screen and annotation inside the Pixi canvas so the player and the MP4 show the same sequence.

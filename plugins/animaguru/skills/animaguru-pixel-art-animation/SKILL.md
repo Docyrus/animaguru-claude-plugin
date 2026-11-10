@@ -30,7 +30,7 @@ Follow the sibling `animaguru-video` category → style → quick interview flow
 
 ## Review and completion
 
-Follow `animaguru-video` for audio and export. Inspect at 100% and integer magnification for blurred edges, inconsistent pixel size, atlas bleed and camera shimmer. Play full motion and test loops plus arbitrary seeks. Deliver coherent pixel assets, explicit logical/output dimensions and a working HTML5 film; export MP4 when requested.
+Follow `animaguru-video` for audio and export. Inspect at 100% and integer magnification for blurred edges, inconsistent pixel size, atlas bleed and camera shimmer. Play full motion and test loops plus arbitrary seeks. Deliver coherent pixel assets, explicit logical/output dimensions and the finished film as an MP4.
 
 ## Additional visual treatments
 

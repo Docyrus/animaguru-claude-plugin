@@ -31,4 +31,4 @@ Use the [production recipe](references/recipe.md) for sources, the bundled origi
 
 ## Review and delivery
 
-Inspect reading holds for every word the camera passes, judgement frames that show item, limit and verdict together, photo upsampling and the share of the wall visible before the reveal. Check representative full-resolution frames, moving playback, desktop/mobile fit and cold seeks. Follow `animaguru-video` for production records, audio mixing and HTML5 delivery; export MP4 when requested. Describe the actual 2D/2.5D rendering method accurately. Physically rendered 3D remains deferred.
+Inspect reading holds for every word the camera passes, judgement frames that show item, limit and verdict together, photo upsampling and the share of the wall visible before the reveal. Check representative full-resolution frames, moving playback, desktop/mobile fit and cold seeks. Follow `animaguru-video` for production records, audio mixing and MP4 delivery. Describe the actual 2D/2.5D rendering method accurately. Physically rendered 3D remains deferred.

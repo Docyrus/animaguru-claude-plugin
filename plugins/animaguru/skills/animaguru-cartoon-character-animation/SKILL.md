@@ -29,7 +29,7 @@ Follow the sibling `animaguru-video` category → style → quick interview flow
 
 ## Review and completion
 
-Follow `animaguru-video` for production records, audio and exports. Inspect character identity, hands, eye lines, contact points, occlusion, pose readability and loop seams. Check movements at full speed and selected extremes. Deliver approved cast assets, coherent performances and the working HTML5 film; export MP4 when requested.
+Follow `animaguru-video` for production records, audio and exports. Inspect character identity, hands, eye lines, contact points, occlusion, pose readability and loop seams. Check movements at full speed and selected extremes. Deliver approved cast assets, coherent performances and the finished film as an MP4.
 
 ## Additional visual treatments
 

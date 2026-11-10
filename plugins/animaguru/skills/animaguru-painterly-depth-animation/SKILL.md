@@ -29,7 +29,7 @@ Follow the sibling `animaguru-video` category → style → quick interview flow
 
 ## Review and completion
 
-Follow `animaguru-video` for production records, audio and exports. Inspect camera extremes, disoccluded areas, edge halos, texture scale and lighting consistency. Check full-speed playback for texture swimming and arbitrary seeks for stable atmospherics. Deliver prepared local layers, intentional depth motion and the working HTML5 film; export MP4 when requested.
+Follow `animaguru-video` for production records, audio and exports. Inspect camera extremes, disoccluded areas, edge halos, texture scale and lighting consistency. Check full-speed playback for texture swimming and arbitrary seeks for stable atmospherics. Deliver prepared local layers, intentional depth motion and the finished film as an MP4.
 
 ## Additional visual treatments
 

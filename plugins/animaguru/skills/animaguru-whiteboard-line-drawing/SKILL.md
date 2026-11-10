@@ -28,7 +28,7 @@ Follow the sibling `animaguru-video` category → style → quick interview flow
 
 ## Review and completion
 
-Follow `animaguru-video` for audio, records and delivery. Scrub through each stroke to check order, speed, joins and reveal masks. Verify all required marks finish before their composition is removed and labels remain readable on a small screen. Deliver authored stroke data, editable labels and a deterministic HTML5 film; export MP4 when requested.
+Follow `animaguru-video` for audio, records and delivery. Scrub through each stroke to check order, speed, joins and reveal masks. Verify all required marks finish before their composition is removed and labels remain readable on a small screen. Deliver authored stroke data, editable labels and a deterministic film as an MP4.
 
 ## Additional visual treatments
 

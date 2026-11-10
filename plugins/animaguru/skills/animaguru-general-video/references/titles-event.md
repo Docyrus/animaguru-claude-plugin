@@ -8,4 +8,4 @@ Fold this missing information into the shared quick interview: **What exact name
 - Choose a camera and transition grammar from the style. Readable timing overrides a desire to animate every name on a beat.
 - Subjects can be events, films, shows or original identities. Do not inherit the source example's spy/thriller plot, fictional institution or credit sequence.
 
-Completion: Names, dates and roles are correct; every important title fully arrives and holds long enough. Use `animaguru-video` for the common production, budget, review and HTML5/MP4 contract.
+Completion: Names, dates and roles are correct; every important title fully arrives and holds long enough. Use `animaguru-video` for the common production, budget, review and MP4 delivery contract.

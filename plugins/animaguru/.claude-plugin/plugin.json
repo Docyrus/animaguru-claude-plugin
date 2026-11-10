@@ -1,7 +1,7 @@
 {
   "name": "animaguru",
   "displayName": "AnimaGuru",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AnimaGuru, the animation production studio, powered by AI: make animated films in the chat and play them in an interactive studio, create characters, images, video, music, voices and sound effects, and browse or create avatars, with every AnimaGuru film skill (60 animation styles, Art Motion, brand kits, 3D models and clip prompts) and PixiJS v8 guidance.",
   "author": {
     "name": "AnimaGuru",

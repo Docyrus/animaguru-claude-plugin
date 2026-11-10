@@ -29,7 +29,7 @@ Follow the sibling `animaguru-video` skill's category → style → quick interv
 
 ## Review and completion
 
-Follow `animaguru-video` for the player, records, audio mix and exports. Check longest phrases, transitions, multilingual glyphs, contrast and phone-size legibility. For speech-led word highlighting, target alignment within two output frames and verify against the recording; report any remaining timing uncertainty. Inspect phrase entrances, reading holds and exits, not only attractive stills. Deliver the agreed film with editable localized copy, verified cues and the working HTML5 player; export MP4 when requested.
+Follow `animaguru-video` for the player, records, audio mix and exports. Check longest phrases, transitions, multilingual glyphs, contrast and phone-size legibility. For speech-led word highlighting, target alignment within two output frames and verify against the recording; report any remaining timing uncertainty. Inspect phrase entrances, reading holds and exits, not only attractive stills. Deliver the agreed film as an MP4, with editable localized copy and verified cues.
 
 ## Additional visual treatments
 

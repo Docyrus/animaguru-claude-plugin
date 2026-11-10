@@ -29,7 +29,7 @@ Follow the sibling `animaguru-video` category → style → quick interview flow
 
 ## Review and completion
 
-Use `animaguru-video` for audio, records and exports. Check every connection, ground contact, occlusion and camera extreme. Inspect each assembled state at mobile size and verify labels never obscure the event they explain. Deliver a consistent projection, readable motion and the working HTML5 film; export MP4 when requested.
+Use `animaguru-video` for audio, records and exports. Check every connection, ground contact, occlusion and camera extreme. Inspect each assembled state at mobile size and verify labels never obscure the event they explain. Deliver a consistent projection, readable motion and the finished film as an MP4.
 
 ## Additional visual treatments
 

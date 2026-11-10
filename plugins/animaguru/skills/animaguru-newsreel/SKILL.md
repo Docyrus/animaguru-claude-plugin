@@ -31,4 +31,4 @@ Use the [production recipe](references/recipe.md) for sources, the bundled origi
 
 ## Review and delivery
 
-Inspect the gate mask at every corner, grade consistency across clips (one level set per clip, never per frame), place-card reading time, subtitle one-line limits, and every date or claim against `FACTS.md`. Check representative full-resolution frames, moving playback, desktop/mobile fit and cold seeks. Follow `animaguru-video` for production records, audio mixing and HTML5 delivery; export MP4 when requested. Describe the actual 2D/2.5D rendering method accurately. Physically rendered 3D remains deferred.
+Inspect the gate mask at every corner, grade consistency across clips (one level set per clip, never per frame), place-card reading time, subtitle one-line limits, and every date or claim against `FACTS.md`. Check representative full-resolution frames, moving playback, desktop/mobile fit and cold seeks. Follow `animaguru-video` for production records, audio mixing and MP4 delivery. Describe the actual 2D/2.5D rendering method accurately. Physically rendered 3D remains deferred.

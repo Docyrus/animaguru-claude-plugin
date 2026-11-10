@@ -30,7 +30,7 @@ Follow the sibling `animaguru-video` category → style → quick interview flow
 
 ## Review and completion
 
-Check each transformation's meaning as well as its appearance. Inspect formula baselines, label collisions, graph endpoints and discontinuities at transition boundaries and small viewing sizes. Match visual events to the real narration where present. Follow `animaguru-video` to deliver source expressions, diagram data, validation notes and the working HTML5 film; export MP4 when requested.
+Check each transformation's meaning as well as its appearance. Inspect formula baselines, label collisions, graph endpoints and discontinuities at transition boundaries and small viewing sizes. Match visual events to the real narration where present. Follow `animaguru-video` to deliver source expressions, diagram data, validation notes and the finished film as an MP4.
 
 ## Additional visual treatments
 

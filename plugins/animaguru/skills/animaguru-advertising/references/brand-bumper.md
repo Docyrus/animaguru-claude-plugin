@@ -8,4 +8,4 @@ Fold this missing information into the shared quick interview: **Which correct m
 - Select a material-native transformation: print, carve, fold, assemble, mask or shape match. Avoid turning every brand into the same particle reveal.
 - For loops, match image state and velocity through the boundary. If a closing lockup is requested, allow enough time to recognize it.
 
-Completion: Mark accuracy, wordmark spacing, required brand hold and loop continuity. Use `animaguru-video` for the common production, budget, review and HTML5/MP4 contract.
+Completion: Mark accuracy, wordmark spacing, required brand hold and loop continuity. Use `animaguru-video` for the common production, budget, review and MP4 delivery contract.

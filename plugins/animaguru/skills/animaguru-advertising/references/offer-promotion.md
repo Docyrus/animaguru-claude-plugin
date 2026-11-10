@@ -8,4 +8,4 @@ Fold this missing information into the shared quick interview: **What are the ex
 - Design a hierarchy for the actual buyer decision. Place essential terms where they remain readable at the target placement and aspect ratio.
 - Use urgency only when supplied dates or availability justify it. Verify the requested link or next action before writing the final CTA.
 
-Completion: Offer details match supplied terms and essential copy is readable in the final card. Use `animaguru-video` for the common production, budget, review and HTML5/MP4 contract.
+Completion: Offer details match supplied terms and essential copy is readable in the final card. Use `animaguru-video` for the common production, budget, review and MP4 delivery contract.

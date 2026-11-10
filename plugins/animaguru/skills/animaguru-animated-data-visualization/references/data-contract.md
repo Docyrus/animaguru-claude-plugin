@@ -15,4 +15,4 @@ Validate numerics before rendering. Reject non-finite values. Distinguish zero f
 
 Keep calculations separate from animation interpolation. At each reveal's settled frame, compare the plotted model and displayed label with the expected chart-ready value. Verify totals and rank labels after filtering, and check ties rather than inventing a unique winner. If source and requested claim conflict, describe the discrepancy and use a supported claim or wait for corrected data.
 
-For sensitive source data, the static HTML5 export only needs approved chart-ready values and attribution. Raw source files can stay in `production/`; do not automatically copy them to `public/assets/` or the embedded package.
+For sensitive source data, the film only needs approved chart-ready values and attribution. Raw source files can stay in `production/`; do not automatically copy them to `public/assets/`, which `animaguru submit` uploads with the film.

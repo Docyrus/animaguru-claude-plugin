@@ -8,4 +8,4 @@ Fold this missing information into the shared quick interview: **What subject, t
 - Give meaningful actions anticipation, action and follow-through. Maintain prop contact, eyelines and spatial relationships through camera moves.
 - Use the selected style as material grammar. Sound may be narration, dialogue, ambience, foley, music or silence according to the brief.
 
-Completion: Readable performance, intentional pacing, coherent space and an ending that serves the brief. Use `animaguru-video` for the common production, budget, review and HTML5/MP4 contract.
+Completion: Readable performance, intentional pacing, coherent space and an ending that serves the brief. Use `animaguru-video` for the common production, budget, review and MP4 delivery contract.

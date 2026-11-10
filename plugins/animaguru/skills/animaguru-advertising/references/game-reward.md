@@ -8,4 +8,4 @@ Fold this missing information into the shared quick interview: **Which real game
 - Keep highlights readable: deliberate anticipation, a controlled peak, then a clean reveal stage. Effect intensity is a parameter, not a requirement to fill the screen with flashes.
 - This workflow creates a deterministic video. A playable ad requires an explicitly requested interaction deliverable with a state machine, controls and separate interaction review.
 
-Completion: Gameplay truth, reward clarity and no lingering motion or effect obscuring the result. Use `animaguru-video` for the common production, budget, review and HTML5/MP4 contract.
+Completion: Gameplay truth, reward clarity and no lingering motion or effect obscuring the result. Use `animaguru-video` for the common production, budget, review and MP4 delivery contract.

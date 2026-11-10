@@ -68,7 +68,7 @@ Profile end-to-end capture, including GPU completion when relevant. Upstream mil
 
 ## Review and delivery
 
-In the installed starter, use its build, `review`, `frames`, HTML5 and MP4 tools as documented by `animaguru-video`. For a multi-animation workspace, run from the workspace root with the selected animation argument. Keep the film's real resources and clip timing in the resource registry so the timeline and review tools inspect the finished film.
+In the installed starter, use its build, `review`, `frames` and MP4 tools as documented by `animaguru-video`. For a multi-animation workspace, run from the workspace root with the selected animation argument. Keep the film's real resources and clip timing in the resource registry so the timeline and review tools inspect the finished film.
 
 Review representative full-size stills, transition midpoints, extreme expressions and the smallest intended display. Watch the complete film at normal speed and listen to the final mix when those capabilities are available. Check:
 
@@ -81,4 +81,4 @@ Review representative full-size stills, transition midpoints, extreme expression
 
 Motion-area, static-frame and jump statistics are diagnostics. A noisy VHS frame can score as moving while nothing meaningful happens; storytime and mathematical explanations may intentionally contain long static holds. Inspect suspicious intervals rather than enforcing a universal threshold or speeding up scenes to pass a score. Do not claim an independent review when none occurred.
 
-Deliver the requested local playable film and/or export with production sources. Check that portable HTML plays from local packaged assets, including under a nested URL and iframe where relevant. For MP4 verify codecs, audio, dimensions, duration and exact frame count using the existing exporter. State any unperformed playback/listening checks. Publishing, uploading and package release are separate actions from local film creation.
+Deliver the film as an MP4 with production sources; films download only as MP4. Check that the film plays from its local `public/` assets in `npm run dev`, and in AnimaGuru's hosted player and embed when the user has it submitted. For MP4 verify codecs, audio, dimensions, duration and exact frame count using the existing exporter. State any unperformed playback/listening checks. Publishing, uploading and package release are separate actions from local film creation.

@@ -31,4 +31,4 @@ Use the [production recipe](references/recipe.md) for sources, the bundled origi
 
 ## Review and delivery
 
-Inspect cut-to-beat alignment, grade consistency across day and night shots, text reading time against `readcheck`-style limits, and every number against `FACTS.md`. Check representative full-resolution frames, moving playback, desktop/mobile fit and cold seeks. Follow `animaguru-video` for production records, audio mixing and HTML5 delivery; export MP4 when requested. Describe the actual 2D/2.5D rendering method accurately. Physically rendered 3D remains deferred.
+Inspect cut-to-beat alignment, grade consistency across day and night shots, text reading time against `readcheck`-style limits, and every number against `FACTS.md`. Check representative full-resolution frames, moving playback, desktop/mobile fit and cold seeks. Follow `animaguru-video` for production records, audio mixing and MP4 delivery. Describe the actual 2D/2.5D rendering method accurately. Physically rendered 3D remains deferred.

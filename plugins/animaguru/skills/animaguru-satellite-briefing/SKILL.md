@@ -31,4 +31,4 @@ Use the [production recipe](references/recipe.md) for sources, the bundled origi
 
 ## Review and delivery
 
-Inspect plate seams and upsampling at each altitude, grey-grade clipping, mark registration through every camera move, the burned-in imagery credit and every number against `FACTS.md`. Check representative full-resolution frames, moving playback, desktop/mobile fit and cold seeks. Follow `animaguru-video` for production records, audio mixing and HTML5 delivery; export MP4 when requested. Describe the actual 2D/2.5D rendering method accurately. Physically rendered 3D remains deferred.
+Inspect plate seams and upsampling at each altitude, grey-grade clipping, mark registration through every camera move, the burned-in imagery credit and every number against `FACTS.md`. Check representative full-resolution frames, moving playback, desktop/mobile fit and cold seeks. Follow `animaguru-video` for production records, audio mixing and MP4 delivery. Describe the actual 2D/2.5D rendering method accurately. Physically rendered 3D remains deferred.

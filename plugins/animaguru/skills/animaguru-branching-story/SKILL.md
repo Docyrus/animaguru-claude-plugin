@@ -1,13 +1,13 @@
 ---
 name: animaguru-branching-story
-description: Design and build a branching (interactive, choose-your-path) story film in an AnimaGuru video workspace, where viewers pick what happens next at choices and reach one of several endings. Plays as HTML5 only, never MP4. Use when the user asks for an interactive, branching, choose-your-own-adventure or multiple-ending film, ad, explainer or lesson.
+description: Design and build a branching (interactive, choose-your-path) story film in an AnimaGuru video workspace, where viewers pick what happens next at choices and reach one of several endings. Plays as an interactive film on AnimaGuru and in `npm run dev`, never as an MP4. Use when the user asks for an interactive, branching, choose-your-own-adventure or multiple-ending film, ad, explainer or lesson.
 ---
 
 # AnimaGuru branching story
 
 A branching story is an ordinary AnimaGuru film whose timeline holds every segment of every path, laid end to end, plus a `story.json` beside `film.config.json` that says where each segment goes. The player plays one segment at a time: at a segment with choices it shows the prompt and buttons over the picture and continues into the segment the viewer picks; a segment with `next` flows on by itself; an ending shows its title with Play again and Back to the last choice. Review, frames, the frame checker and capture still see the whole timeline as one film, so every segment of every path is checked.
 
-It plays as HTML5 only, locally, in an exported ZIP and on AnimaGuru's video pages. An MP4 has one path, so `npm run export:mp4` refuses a film with `story.json`, the cloud Animator offers no MP4 for it, and you should not promise one. Read sibling `animaguru-video` first for the setup, interview, kit, audio and review workflow; this skill adds what changes.
+It plays only as an interactive film: locally in `npm run dev`, and on AnimaGuru's video pages, share links and embeds after `animaguru submit`. It cannot be downloaded. An MP4 has one path, so `npm run export:mp4` refuses a film with `story.json`, the cloud Animator offers no MP4 for it, and you should not promise one. Read sibling `animaguru-video` first for the setup, interview, kit, audio and review workflow; this skill adds what changes.
 
 ## Start
 
@@ -53,7 +53,7 @@ Write the graph into `production/brief.md` as a short outline: each segment's id
 - `timeout` (3–60 s) counts from when the choices appear, while the film plays and while it holds; `default` (an index, the first by default) is taken when it runs out. Leave `timeout` out to wait for the viewer.
 - `prompt` (up to 120 characters) shows above the buttons. `label` names the segment on the timeline and in the transcript. `ui` and `theme` are optional; the theme defaults to the brand's primary and text colors.
 - `languages` (optional): the story in the film's other languages (each with its `shared/locales/LANG/film.json`): `languages.LANG.segments.ID` gives a segment's `label`, `prompt`, `ending` and `choices` (its choices' labels, in order), and `languages.LANG.ui` the panels' words. Where each choice leads stays the same. The player's panel words already come in English, Turkish, Swedish and Arabic.
-- Every segment must be reachable from `start`, and every segment must still be able to reach an ending, so no path traps the viewer. `npm run build`, `npm run dev`, review and export check the graph and name the first problem.
+- Every segment must be reachable from `start`, and every segment must still be able to reach an ending, so no path traps the viewer. `npm run build`, `npm run dev`, review and `animaguru submit` check the graph and name the first problem.
 
 ## Scenes for a story
 
@@ -71,4 +71,4 @@ Write the graph into `production/brief.md` as a short outline: each segment's id
 
 - `npm run dev` plays the story; `?segment=ID` starts at a segment, and in the console `animaguru.story.goTo("ID")`, `.choose(1)`, `.back()` and `.restart()` drive it. Play every path to each ending at desktop and phone sizes, try keyboard choice (Tab, or 1–4), a timeout, Back and Play again.
 - `npm run review -- --headless` checks text, seeking and frames over the whole timeline, then prints the story's segments, choices, endings and shortest and longest playthrough, plus notes such as a timeout too short to read. `npm run frames` and `animaguru review check` work as for any film; choose times inside each segment.
-- Deliver with `npm run export:html -- --animation NAME` or `animaguru submit --yes` (private by default). The HTML5 manifest records the story, so AnimaGuru's video page plays it interactively and labels it as an interactive story; its seek bar covers the segment playing. Say plainly that it has no MP4.
+- Deliver with `animaguru submit --yes` (private by default); there is no file to download. The submitted film records the story, so AnimaGuru's video page plays it interactively and labels it as an interactive story; its seek bar covers the segment playing. Say plainly that it has no MP4.

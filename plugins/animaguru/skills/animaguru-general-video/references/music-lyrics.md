@@ -8,4 +8,4 @@ Fold this missing information into the shared quick interview: **Which actual tr
 - Choose whether words follow vocal phrasing, whether cuts follow music, and where visuals should hold. Phrase timing and instrumental beats need not coincide.
 - Bake audio envelopes and particle schedules. Match the visible lyrics to actual recorded words; do not rely on live AudioContext state for export.
 
-Completion: Lyrics are accurate, cues align, and both silent visual reading and full-speed audio playback work. Use `animaguru-video` for the common production, budget, review and HTML5/MP4 contract.
+Completion: Lyrics are accurate, cues align, and both silent visual reading and full-speed audio playback work. Use `animaguru-video` for the common production, budget, review and MP4 delivery contract.
