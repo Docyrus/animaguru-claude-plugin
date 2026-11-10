@@ -1,0 +1,190 @@
+{
+  "repository": "https://github.com/alchaincyf/huashu-art-motion",
+  "commit": "2571ee0a9a0467c4d99e935ea9e0fadda19210b0",
+  "license": "MIT",
+  "adaptationLanguage": "en",
+  "artStyles": [
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/01_cave.md",
+      "reference": "references/art/cave-painting.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/02_egypt.md",
+      "reference": "references/art/egyptian-wall-painting.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/03_greek.md",
+      "reference": "references/art/greek-vase-painting.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/04_roman.md",
+      "reference": "references/art/roman-mosaic.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/05_gothic.md",
+      "reference": "references/art/gothic-illumination.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/06_renaissance.md",
+      "reference": "references/art/renaissance-sfumato.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/08_impressionism.md",
+      "reference": "references/art/impressionist-dabs.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/09_postimp.md",
+      "reference": "references/art/post-impressionist-flow.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/10_nouveau.md",
+      "reference": "references/art/art-nouveau.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/11_cubism.md",
+      "reference": "references/art/cubist-facets.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/12_bauhaus.md",
+      "reference": "references/art/bauhaus-geometry.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/13_pop.md",
+      "reference": "references/art/pop-print.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/14_8bit.md",
+      "reference": "references/art/pixel-art.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/15_raytrace.md",
+      "reference": "references/art/early-cgi.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/16_2026.md",
+      "reference": "references/art/contemporary-flat.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/17_ink.md",
+      "reference": "references/art/ink-wash.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/18_klimt.md",
+      "reference": "references/art/klimt-gold.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/19_munch.md",
+      "reference": "references/art/expressionist-waves.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/20_dunhuang.md",
+      "reference": "references/art/dunhuang-mural.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/21_kusama.md",
+      "reference": "references/art/polka-dot-infinity.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/22_constructivism.md",
+      "reference": "references/art/constructivist-poster.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/23_dali.md",
+      "reference": "references/art/surrealist-soft-forms.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/24_hopper.md",
+      "reference": "references/art/hopper-hard-light.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/25_ghibli.md",
+      "reference": "references/art/watercolor-cel-world.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/26_vaporwave.md",
+      "reference": "references/art/vaporwave-vhs.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/27_kirby.md",
+      "reference": "references/art/cosmic-comic.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/28_monet.md",
+      "reference": "references/art/monet-water-garden.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/29_seurat.md",
+      "reference": "references/art/seurat-pointillism.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/30_matisse.md",
+      "reference": "references/art/matisse-cut-paper.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/31_haring.md",
+      "reference": "references/art/radiant-line-figures.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/32_rembrandt.md",
+      "reference": "references/art/rembrandt-chiaroscuro.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/33_rubberhose.md",
+      "reference": "references/art/rubber-hose.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/34_shadowpuppet.md",
+      "reference": "references/art/shadow-puppet.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/35_shinkai.md",
+      "reference": "references/art/cinematic-anime-light.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/36_picasso_blue.md",
+      "reference": "references/art/blue-period.md"
+    },
+    {
+      "source": "references/\u98ce\u683c\u914d\u65b9/37_rick_morty.md",
+      "reference": "references/art/flat-outline-cartoon.md"
+    }
+  ],
+  "explainerGrammars": [
+    {
+      "source": "references/\u52a8\u753b\u8bed\u6cd5/t1_3b1b.md",
+      "reference": "references/explainers/concept-morph.md"
+    },
+    {
+      "source": "references/\u52a8\u753b\u8bed\u6cd5/t2_keynote_ui.md",
+      "reference": "references/explainers/product-interface.md"
+    },
+    {
+      "source": "references/\u52a8\u753b\u8bed\u6cd5/t3_finance_chart.md",
+      "reference": "references/explainers/honest-data-chart.md"
+    },
+    {
+      "source": "references/\u52a8\u753b\u8bed\u6cd5/y1_kurzgesagt.md",
+      "reference": "references/explainers/luminous-science.md"
+    },
+    {
+      "source": "references/\u52a8\u753b\u8bed\u6cd5/y2_vox.md",
+      "reference": "references/explainers/editorial-evidence.md"
+    },
+    {
+      "source": "references/\u52a8\u753b\u8bed\u6cd5/y3_whiteboard.md",
+      "reference": "references/explainers/whiteboard-reasoning.md"
+    },
+    {
+      "source": "references/\u52a8\u753b\u8bed\u6cd5/y4_storytime.md",
+      "reference": "references/explainers/storytime-acting.md"
+    },
+    {
+      "source": "references/\u52a8\u753b\u8bed\u6cd5/y5_kinetic_type.md",
+      "reference": "references/explainers/kinetic-type.md"
+    },
+    {
+      "source": "references/\u52a8\u753b\u8bed\u6cd5/y6_presenter_explainer.md",
+      "reference": "references/explainers/presenter-explainer.md"
+    }
+  ]
+}

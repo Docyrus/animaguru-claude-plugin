@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "animaguru": {
+      "type": "http",
+      "url": "https://animaguru.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "animaguru",
+  "owner": {
+    "name": "AnimaGuru",
+    "email": "hello@animaguru.com"
+  },
+  "metadata": {
+    "description": "AnimaGuru, the animation production studio, powered by AI."
+  },
+  "plugins": [
+    {
+      "name": "animaguru",
+      "displayName": "AnimaGuru",
+      "description": "AnimaGuru, the animation production studio, powered by AI: make animated films in the chat and play them in an interactive studio, create characters, images, video, music, voices and sound effects, and browse or create avatars, with every AnimaGuru film skill (60 animation styles, Art Motion, brand kits, 3D models and clip prompts) and PixiJS v8 guidance.",
+      "version": "1.0.0",
+      "source": "./plugins/animaguru"
+    }
+  ]
+}
